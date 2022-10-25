@@ -6,7 +6,7 @@
 #define VIAL_UNLOCK_COMBO_COLS { 0, 5 }
 
 /* default layer count */
-#define DYNAMIC_KEYMAP_LAYER_COUNT 4
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
 /* caps word */
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
